@@ -1,9 +1,8 @@
-# 👋 Hi, I'm Amit Gahlot!
+# 👋 Hi, I'm Amitt Gahlot!
 🚀 **Web Designer & Mobile App Developer** | Passionate about crafting modern UI/UX & high-performance applications.
 
 ## 🔥 About Me
 - 🎨 I specialize in **HTML, CSS, JavaScript, ReactJS, GSAP, and Flutter**.
-- 📱 Currently building **Snoutiq (Vet Consultation App) & Medicine Delivery App Frontend**.
 - 🛠 Learning **Flutter & Mobile App Development** to expand my skill set.
 - 🤝 Open to **collaborations on web & mobile app projects**.
 
