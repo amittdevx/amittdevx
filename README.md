@@ -3,7 +3,6 @@
 
 ## 🔥 About Me
 - 🎨 I specialize in **HTML, CSS, JavaScript, ReactJS, GSAP, and Flutter**.
-- 📱 Currently building **Snoutiq (Vet Consultation App) & Medicine Delivery App Frontend**.
 - 🛠 Learning **Flutter & Mobile App Development** to expand my skill set.
 - 🤝 Open to **collaborations on web & mobile app projects**.
 
