@@ -1,26 +1,18 @@
-# 👋 Hi, I'm Amitt Gahlot!
-🚀 **Web Designer & Mobile App Developer** | Passionate about crafting modern UI/UX & high-performance applications.
+# Hi, I'm Amitt Gahlot 👋
 
-## 🔥 About Me
-- 🎨 I specialize in **HTML, CSS, JavaScript, ReactJS, GSAP, and Flutter**.
-- 🛠 Learning **Flutter & Mobile App Development** to expand my skill set.
-- 🤝 Open to **collaborations on web & mobile app projects**.
+**Full Stack Mobile App Developer** · React Native · Next.js · Flutter
 
-## 🚀 Tech Stack
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![ReactJS](https://img.shields.io/badge/ReactJS-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=white)
+App developer at **State Infotech**, Noida. I built the RM Ayurved Android app and its Next.js storefront.
 
-## 📊 GitHub Stats
+- 🌐 **Portfolio:** https://amittg.netlify.app
+- 💼 **LinkedIn:** https://www.linkedin.com/in/amittdevx
+- 📫 **Email:** hi.amitdev.in@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitdevx&layout=compact&theme=github-dark)
+## 🚀 Tech
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-## 📫 Contact Me
-- **LinkedIn:** [linkedin.com/in/amitdevx](#)
-- **Email:** hi.amitdev.in@gmail.com
-
-⚡ **Fun Fact:** "I can turn coffee ☕ into clean, optimized code! 🚀"
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amittdevx&layout=compact&theme=github-dark)
